@@ -1,6 +1,6 @@
-## Spammer is a
-Pyhton programme to spam bulk text.
-## Required modules
+## About
+<b>Spammer</b> is a Pyhton programme to <b>spam bulk text</b>.
+## Requirement
 - pip install pynput 
 ## How to use-
 - Run the programme 
